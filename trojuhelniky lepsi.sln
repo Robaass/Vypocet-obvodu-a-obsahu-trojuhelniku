@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trojuhelniky lepsi", "trojuhelniky lepsi\trojuhelniky lepsi.csproj", "{66534C5F-9B8A-45E7-B0ED-74A6DC0DA906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66534C5F-9B8A-45E7-B0ED-74A6DC0DA906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66534C5F-9B8A-45E7-B0ED-74A6DC0DA906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66534C5F-9B8A-45E7-B0ED-74A6DC0DA906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66534C5F-9B8A-45E7-B0ED-74A6DC0DA906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67C43D5-38B2-4A92-8D0E-C8BA0170734F}
+	EndGlobalSection
+EndGlobal
